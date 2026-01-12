@@ -21,4 +21,4 @@ I am a passionate **Data Analyst** dedicated to turning complex data into action
 
 ### 📫 Connect with me:
 - **Email**: myselfsukhendu09@gmail.com
-- **LinkedIn**: [Sukhendu Biswas](https://linkedin.com/in/sukhendubiswas09)
+- **LinkedIn**: [Sukhendu Biswas](https://www.linkedin.com/in/sukhendu-biswas-569425259/)
