@@ -10,6 +10,7 @@ I am a passionate **Data Analyst** dedicated to turning complex data into action
 - **Tools**: Git, GitHub Actions, SQLite, Jupyter Notebooks
 
 ### 🚀 Featured Analytical Projects
+- **🆕 [ChurnGuard AI: Customer Retention](https://github.com/myselfsukhendu09/customer-churn-prediction-ai)**: Enterprise-grade customer churn prediction system featuring a high-performance Streamlit dashboard and explainable AI insights.
 - **🆕 [Face Mask Detection AI](https://github.com/myselfsukhendu09/face-mask-detection-ai)**: Real-world Vision AI system using MediaPipe and TensorFlow for real-time mask detection and biometric analysis.
 - **🆕 [House Price Prediction Challenge](https://github.com/myselfsukhendu09/house-price-prediction-challenge)**: Professional Real Estate AI forecasting market values using Random Forest and optimized predictive pipelines.
 - **[Medical Insurance Cost Predictor](https://github.com/myselfsukhendu09/Medical-Insurance-Prediction)**: AI-driven regression project predicting healthcare costs with high accuracy using XGBoost.
