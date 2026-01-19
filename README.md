@@ -4,14 +4,14 @@
 I am a passionate **Data Analyst** dedicated to turning complex data into actionable insights. My expertise lies in building end-to-end Machine Learning pipelines, interactive dashboards, and robust analytical systems. I specialize in uncovering patterns in financial, retail, and healthcare data to drive informed decision-making.
 
 ### 🛠 Tech Stack
-- **Languages**: Python (Pandas, NumPy, Scikit-learn), SQL, JavaScript
-- **Visualization**: Plotly, Seaborn, Matplotlib, Streamlit, HTML5/CSS3 (Premium UI/UX)
-- **Frameworks**: FastAPI, TensorFlow, MediaPipe, XGBoost, Scikit-learn
-- **Tools**: GitHub Actions, Git, SQLite, Jupyter Notebooks
+- **Languages**: Python (Pandas, NumPy, Scikit-learn), SQL
+- **Frameworks**: TensorFlow, MediaPipe, FastAPI, XGBoost, Scikit-learn, Keras
+- **Visualization**: Plotly, Seaborn, Matplotlib, Streamlit
+- **Tools**: Git, GitHub Actions, SQLite, Jupyter Notebooks
 
 ### 🚀 Featured Analytical Projects
-- **🆕 [Face Mask Detection AI](https://github.com/myselfsukhendu09/face-mask-detection-ai)**: Real-world Vision AI system using MediaPipe and TensorFlow for real-time mask detection with a premium cyberpunk dashboard.
-- **🆕 [House Price Prediction Challenge](https://github.com/myselfsukhendu09/house-price-prediction-challenge)**: Professional Real Estate AI forecasting market values using Random Forest with a high-end glassmorphic frontend.
+- **🆕 [Face Mask Detection AI](https://github.com/myselfsukhendu09/face-mask-detection-ai)**: Real-world Vision AI system using MediaPipe and TensorFlow for real-time mask detection and biometric analysis.
+- **🆕 [House Price Prediction Challenge](https://github.com/myselfsukhendu09/house-price-prediction-challenge)**: Professional Real Estate AI forecasting market values using Random Forest and optimized predictive pipelines.
 - **[Medical Insurance Cost Predictor](https://github.com/myselfsukhendu09/Medical-Insurance-Prediction)**: AI-driven regression project predicting healthcare costs with high accuracy using XGBoost.
 - **[Wine Quality Analyzer](https://github.com/myselfsukhendu09/Red-wine-quality-predictor)**: Interactive classification system using machine learning for automated wine quality assessment.
 - **[IPL Performance Analysis](https://github.com/myselfsukhendu09/IPL-Performance-Analysis)**: Comprehensive exploratory data analysis of IPL history, uncovering trends in player performance and match outcomes.
